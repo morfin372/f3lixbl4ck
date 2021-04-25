@@ -3,16 +3,7 @@
 [![Website](https://img.shields.io/website?label=f3lixblack.com&style=for-the-badge&url=https://f3lixblack.com)](https://f3lixblack.com)
 
 
-## I'm a third-year student at the university of MEF!
-- 🔭I'm currently working on CourseBuddies
-- 🌱 I’m currently learning more about Machine Learning, AI
-- 🥅 2021 Goals: Specializing in Machine Learning
-- ⚡ Fun fact: I love to cycling, editing video 
-<!---
-### Spotify Playing 🎧
 
-[<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="OmerCelikel Spotify Playing" width="350" />](https://open.spotify.com/artist/7jdFEYD2LTYjfwxOdlVjmc)
---->
 ### Connect with me:
 
 [<img align="left" alt="f3lixblack.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
