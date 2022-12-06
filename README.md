@@ -6,8 +6,8 @@
 
 ### Connect with me:
 
-[<img align="left" alt="f3lixblack.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
-[<img align="left" alt="f3lixblack | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+[<img align="left" alt="sosyprism.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
+[<img align="left" alt="extbully | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
 <br />
 
@@ -27,8 +27,8 @@
 
 <details>
   <summary>:zap: GitHub Stats</summary>
-  <img align="left" alt="f3lix's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=f3lixbl4ck&show_icons=true&hide_border=true" />
+  <img align="left" alt="Morfin's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=morfin372&show_icons=true&hide_border=true" />
 </details>
 
-[website]: https://f3lixblack.com
-[instagram]: https://instagram.com/f3lixblack
+[website]: https://sosyprism.com
+[instagram]: https://instagram.com/extbully
